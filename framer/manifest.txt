@@ -37,6 +37,7 @@ design/images/nvT45SJgXetcpZjLvBLPFU6xo4.png
 design/images/laYwZFpSQ2kMKMhfyiD8xzSRkw.png
 design/images/BEi32E6Uc5P2ixHoenDP2h2j8.jpg
 design/assets/video01.mov
+design/assets/shoes.jpg
 build/vendors.js
 build/framer.js
 index.html
