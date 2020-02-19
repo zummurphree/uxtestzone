@@ -33,6 +33,7 @@ node_modules/framer/build/framer.api.json
 node_modules/framer/README.md
 node_modules/framer/LICENSE.md
 node_modules/framer/CHANGELOG.md
+design/images/video01.mov
 design/images/nvT45SJgXetcpZjLvBLPFU6xo4.png
 design/images/laYwZFpSQ2kMKMhfyiD8xzSRkw.png
 design/images/BEi32E6Uc5P2ixHoenDP2h2j8.jpg
