@@ -36,12 +36,6 @@ node_modules/framer/CHANGELOG.md
 design/images/nvT45SJgXetcpZjLvBLPFU6xo4.png
 design/images/laYwZFpSQ2kMKMhfyiD8xzSRkw.png
 design/images/BEi32E6Uc5P2ixHoenDP2h2j8.jpg
-design/images/1bXwrdiE0bp7G8ggnsyj3qAM.jpg
-design/assets/BabyVision2.mp4
-design/assets/394013OliviaJane013.mp4
-design/assets/389821LaloVHP (1).mp4
-design/assets/2019_11_4_As_Seen_On_TV_389724_OH_VHP.mp4
-design/assets/2019_10_29_Gallery_Wall_391271_OH_VHP.mp4
 build/vendors.js
 build/framer.js
 index.html
