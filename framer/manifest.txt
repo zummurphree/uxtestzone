@@ -33,6 +33,17 @@ node_modules/framer/build/framer.api.json
 node_modules/framer/README.md
 node_modules/framer/LICENSE.md
 node_modules/framer/CHANGELOG.md
+node_modules/@framer/krijn.video-player/tsconfig.json
+node_modules/@framer/krijn.video-player/package.json
+node_modules/@framer/krijn.video-player/metadata/icon.png
+node_modules/@framer/krijn.video-player/metadata/artwork.png
+node_modules/@framer/krijn.video-player/dist/index.js
+node_modules/@framer/krijn.video-player/design/document.json
+node_modules/@framer/krijn.video-player/code/canvas.tsx
+node_modules/@framer/krijn.video-player/code/Video.tsx
+node_modules/@framer/krijn.video-player/build/vendors.js
+node_modules/@framer/krijn.video-player/build/index.js
+node_modules/@framer/krijn.video-player/README.md
 design/images/video01.mov
 design/images/nvT45SJgXetcpZjLvBLPFU6xo4.png
 design/images/laYwZFpSQ2kMKMhfyiD8xzSRkw.png
