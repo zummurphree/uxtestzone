@@ -98,12 +98,14 @@ design/images/nvT45SJgXetcpZjLvBLPFU6xo4.png
 design/images/muR2CvPgIhvUFz0aplhFheV5eg.jpg
 design/images/laYwZFpSQ2kMKMhfyiD8xzSRkw.png
 design/images/f5SwtHm9j4Ja9m9kfK1mbHMufo.jpg
+design/images/bTbEVjhEIAqCNWxUDnkBYnmjE.jpg
 design/images/RwYrO753ysWgfOXFsdLXJhSe0.jpg
 design/images/R1oxZvZZDxMxLoC6QiziahNBO8.jpg
 design/images/P5Z2ZaZWO9F3B1bs1pyBfWWusGY.jpg
 design/images/Kqh0bFvo3atDPze2PEakQDmGVqk.png
 design/images/JIYiYRaVypDOpGq7IjzVEaHrY.jpg
 design/images/BEi32E6Uc5P2ixHoenDP2h2j8.jpg
+design/images/8VTJX0O0PjC3dwxkoZ8AxfNnF8.jpg
 design/assets/video01.mov
 design/assets/Belltown-Medium.otf
 design/assets/Belltown-Heavy.otf
