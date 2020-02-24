@@ -107,6 +107,8 @@ design/images/JIYiYRaVypDOpGq7IjzVEaHrY.jpg
 design/images/BEi32E6Uc5P2ixHoenDP2h2j8.jpg
 design/images/8VTJX0O0PjC3dwxkoZ8AxfNnF8.jpg
 design/assets/video01.mov
+design/assets/belltown-medium.woff
+design/assets/belltown-heavy.woff
 design/assets/Belltown-Medium.otf
 design/assets/Belltown-Heavy.otf
 design/assets/BabyVision2.mp4
